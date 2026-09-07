@@ -1,1 +1,1 @@
- [build] command = "npm run build" publish = "_site"
+no backticks, no 'toml' label, no extra lines: [build] command = "npm run build" publish = "_site"
